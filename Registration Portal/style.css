@@ -1,0 +1,15 @@
+input[type='submit']
+{
+ float:right;
+ background:blue;
+ color:white;
+ padding:10px;
+ 
+}
+input[type='text'], label{
+ 
+ background:blue;
+ color:white;
+ padding:10px;
+ outline:none;
+}
